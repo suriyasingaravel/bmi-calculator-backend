@@ -1,0 +1,66 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "Virat Kohli",
+        "avatar": "https://assets.gqindia.com/photos/655f4cae4415ca05cbac6ae5/16:9/w_1920,h_1080,c_limit/brands%20Virat%20Kohli%20has%20invested%20his%20wealth%20in.jpg",
+        "email": "virat@gmail.com",
+        "password": "virat",
+        "bmi":[
+            {
+            "id": 1,
+            "bmi": 18.5,
+            "status": "Normal"
+          },
+          {
+            "id": 2,
+            "bmi": 17.5,
+            "status": "Normal"
+          }
+
+        ]
+      },
+      {
+        "id": 2,
+        "username": "Sachin",
+        "avatar": "https://img.jagranjosh.com/imported/images/E/GK/sachin-records.png",
+        "email": "sachin@gmail.com",
+        "password":"sachin",
+        "bmi":[
+            {
+            "id": 1,
+            "bmi": 18.5,
+            "status": "Normal"
+          },
+          {
+            "id": 2,
+            "bmi": 17.5,
+            "status": "Normal"
+          }
+
+        ]
+
+      },
+      {
+        "id": 3,
+        "username": "Suriya",
+        "avatar": "https://prod-oj-files.s3.ap-south-1.amazonaws.com/avatar/6d68cfbcd4.png",
+        "email": "wwilstead2@tripadvisor.com",
+        "password":"12345",
+        "bmi":[
+            {
+            "id": 1,
+            "bmi": 18.5,
+            "status": "Normal"
+          },
+          {
+            "id": 2,
+            "bmi": 17.5,
+            "status": "Normal"
+          }
+
+        ]
+      }
+     
+    ]
+  }
